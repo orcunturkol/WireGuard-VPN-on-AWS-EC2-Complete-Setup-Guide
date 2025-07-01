@@ -461,23 +461,6 @@ while true; do
 done
 ```
 
-## 📁 Repository Structure
-
-When you create your GitHub repository, organize it like this:
-
-```
-wireguard-aws-setup/
-├── README.md           (this file)
-├── scripts/
-│   ├── setup-wireguard.sh
-│   ├── add-client.sh
-│   └── wg-manage.sh
-└── docs/
-    └── troubleshooting.md
-```
-
-## 🎉 Congratulations!
-
 You now have your own private VPN server! Your internet traffic is encrypted and secure, and if you're using AdGuard DNS, you're also blocking ads and trackers.
 
 ## 📝 License
