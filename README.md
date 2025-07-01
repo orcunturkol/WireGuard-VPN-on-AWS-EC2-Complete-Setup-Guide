@@ -11,7 +11,7 @@ This guide will help you set up your own VPN server using WireGuard on AWS EC2. 
 - [Adding More Devices](#adding-more-devices)
 - [Using AdGuard DNS for Ad Blocking](#using-adguard-dns-for-ad-blocking)
 - [Troubleshooting](#troubleshooting)
-- [Scripts](#scripts)
+- [Scripts](##scripts)
 
 ## 🎯 What You'll Need
 
